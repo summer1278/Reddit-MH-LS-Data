@@ -3,11 +3,10 @@
 Reddit Datasets
 ----
 The datasets are collected from Reddit. The data collection and pre-processing details can be found in the paper in the next section.
-Dataset Name|Collection Period|#Train/#Test/#Val
+Dataset Name|Collection Period|#Train/#Test/#Validation
 ---------|----------|-----
-Reddit-MH-2021|Jan 2021 - Sep 2021|xxx|
-Reddit-LS-2021| Jan 2021 - Sep 2021|xxx|
-
+Reddit-MH-2021|Jan 2021 - Sep 2021|499858 / 166620 / 166619|
+Reddit-LS-2021| Jan 2021 - Sep 2021|375783 / 125261 / 125261|
 
 
 Anxiety and Depression Dictionaries
