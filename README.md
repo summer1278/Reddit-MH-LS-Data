@@ -8,7 +8,7 @@ Dataset Name|Collection Period|#Train/#Test/#Validation
 Reddit-MH-2021|Jan 2021 - Sep 2021|499858 / 166620 / 166619|
 Reddit-LS-2021| Jan 2021 - Sep 2021|375783 / 125261 / 125261|
 
-Kaggle link to download the dataset:
+[Kaggle link to download the dataset](https://kaggle.com/datasets/70ca999eb47feba7d5a32a6eb819ddec9804dce6e98000a8248aa01d9b900a6a)
 
 Anxiety and Depression Dictionaries
 ----
