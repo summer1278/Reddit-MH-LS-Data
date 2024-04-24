@@ -22,5 +22,16 @@ Cite/Use the datasets/dictionary
 ------
 If you would like to use the presented datasets or/and dictionary, you can cite this paper:
 ```
-cite
+@INPROCEEDINGS{Xia:IJCNN:2024,
+  author={\textbf{Xia Cui} and Terry Hanley and Muj Choudhury and Tingting Mu},
+  booktitle={2024 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Data-Driven or Dataless? Detecting Indicators of Mental Health Difficulties and Negative Life Events in Financial Resilience Using Prompt-Based Learning }, 
+  month = "Jun",
+  year={2024 (In Press)},
+  address = "Yokohama, Japan",
+  volume={},
+  number={},
+  pages={},
+  keywords={},
+  doi={}}
 ```
